@@ -17,7 +17,7 @@ class Tag {
     @UpdateDateColumn()
     updated_at: Date
 
-    constructor(){
+    constructor() {
       if (!this.id){
         this.id = uuid()
       }
