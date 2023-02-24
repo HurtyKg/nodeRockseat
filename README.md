@@ -27,7 +27,7 @@
   [ ] O usuário precisa estar autenticado na aplicação
 
 
-## Participants
+## Participantes 
 
 [Enzo Oliveira](https://www.linkedin.com/in/enzo-oliveira-a18344229/)
 
