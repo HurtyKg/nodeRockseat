@@ -32,7 +32,7 @@
 [Enzo Oliveira](https://www.linkedin.com/in/enzo-oliveira-a18344229/)
 
 
-## Techs
+## Tecnologias
 
 
 - [x] NodeJS => TS;
