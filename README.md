@@ -1,6 +1,6 @@
 # NLW Valoriza
 
-~
+
 
 ## Regras
 
@@ -25,3 +25,30 @@
   [ ] Não é permitido cadastrar elogios para usuários inválidos
 
   [ ] O usuário precisa estar autenticado na aplicação
+
+
+## Participants
+
+[Enzo Oliveira](https://www.linkedin.com/in/enzo-oliveira-a18344229/)
+
+
+## Techs
+
+
+- [x] NodeJS => TS;
+- [x] TypeScript;
+- [x] ExpressJS / Express-Async-Errors;
+- [x] TS-Node-Dev;
+- [x] TypeORM / Reflect-Metadata / SQLite;
+- [x] UUID;
+- [x] JWT (Json Web Token);
+- [x] BCryptsJS;
+
+
+
+
+
+
+
+
+
